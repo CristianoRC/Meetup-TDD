@@ -68,8 +68,6 @@ enableChalkboard: false
 
 ### Problemas que vamos resolver
 
-![-](https://badcryptopodcast.com/wp-content/uploads/2018/08/wallet.png)
+![-](https://badcryptopodcast.com/wp-content/uploads/2018/08/wallet.png){width=40%}
 
----
-
-![-](./Images/ddd-tdd-rich-domain-model.png)
+#### [Diagrama - Virtual Wallet](https://miro.com/app/board/uXjVOJUpVm0=/)
