@@ -5,7 +5,7 @@ namespace VirtualWallet.Test;
 
 public class UnitTest1
 {
-    [Fact]
+    [Fact(DisplayName = "Teste")]
     public void Test1()
     {
         1.Should().BePositive();
