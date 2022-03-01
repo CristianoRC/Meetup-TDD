@@ -59,6 +59,22 @@ enableChalkboard: false
 
 ### Como eu faço?
 
+---
+
+### O que é BDD
+
+![-](https://miro.medium.com/max/581/1*V3CyC87v-5oj6icmWeu-fg.jpeg)
+
+---
+
+### DDD vs. DBB vs. TDD
+
+![-](https://miro.medium.com/max/1200/0*muEmoCLZVAkAJRAt.png)
+
+---
+
+### Como eu faço?
+
 ![-](./Images/transacao.png)
 
 ---
@@ -72,18 +88,6 @@ enableChalkboard: false
 ### Dúvidas?
 
 ![-](https://media4.giphy.com/media/xT5LMMhtMAD90mU8TK/giphy.gif?cid=ecf05e47r2nhkd0ep9dgqxblhvz1hmt5citrsxgpicj73u7q&rid=giphy.gif&ct=g)
-
----
-
-### O que é BDD
-
-![-](https://miro.medium.com/max/581/1*V3CyC87v-5oj6icmWeu-fg.jpeg)
-
----
-
-### DDD vs. DBB vs. TDD
-
-![-](https://miro.medium.com/max/1200/0*muEmoCLZVAkAJRAt.png)
 
 ---
 
