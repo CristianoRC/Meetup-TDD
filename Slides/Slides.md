@@ -39,12 +39,6 @@ enableChalkboard: false
 
 ---
 
-### BDD
-
-![-](https://www.testmanagement.com/wp-content/uploads/2019/05/g-w-t-v2.png){width=70%}
-
----
-
 ### TDD - Do Jeito ERRADO
 
 ![-](https://compras.wiki.ufsc.br/images/3/30/Question.png)
@@ -71,3 +65,9 @@ enableChalkboard: false
 ![-](https://badcryptopodcast.com/wp-content/uploads/2018/08/wallet.png){width=40%}
 
 #### [Diagrama - Virtual Wallet](https://miro.com/app/board/uXjVOJUpVm0=/)
+
+---
+
+### BDD
+
+![-](https://www.testmanagement.com/wp-content/uploads/2019/05/g-w-t-v2.png){width=70%}
