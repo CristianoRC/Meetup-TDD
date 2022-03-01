@@ -23,19 +23,17 @@ enableChalkboard: false
 
 ### O que é TDD
 
-![-](https://arquivo.devmedia.com.br/artigos/Fabio_Gomes_Rocha/Introducao_TDD/Introducao_TDD1.jpg)
+![-](https://www.xeridia.com/wp-content/uploads/drupal-files/contenidos/blog/test-driven-development.png){width=60%}
 
 ---
 
-### O que é BDD
+### Por que?
 
-![-](https://miro.medium.com/max/581/1*V3CyC87v-5oj6icmWeu-fg.jpeg)
-
----
-
-### DDD vs. DBB vs. TDD
-
-![-](https://miro.medium.com/max/1200/0*muEmoCLZVAkAJRAt.png)
+- Melhor qualidade do código
+- Encontrar Bugs antes(R$)
+- Encontrar problemas das regras de negócio
+- Documentação viva
+- ...
 
 ---
 
@@ -50,6 +48,42 @@ enableChalkboard: false
 ---
 
 ![-](./Images/BabySteps.png)
+
+---
+
+### Muito lento
+
+![-](https://www.xeridia.com/wp-content/uploads/drupal-files/contenidos/blog/test-driven-development.png){width=60%}
+
+---
+
+### Como eu faço?
+
+![-](./Images/transacao.png)
+
+---
+
+### Em caso de bugs
+
+![-](./Images/bug.png)
+
+---
+
+### Dúvidas?
+
+![-](https://media4.giphy.com/media/xT5LMMhtMAD90mU8TK/giphy.gif?cid=ecf05e47r2nhkd0ep9dgqxblhvz1hmt5citrsxgpicj73u7q&rid=giphy.gif&ct=g)
+
+---
+
+### O que é BDD
+
+![-](https://miro.medium.com/max/581/1*V3CyC87v-5oj6icmWeu-fg.jpeg)
+
+---
+
+### DDD vs. DBB vs. TDD
+
+![-](https://miro.medium.com/max/1200/0*muEmoCLZVAkAJRAt.png)
 
 ---
 
