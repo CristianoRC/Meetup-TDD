@@ -61,9 +61,21 @@ enableChalkboard: false
 
 ---
 
-### O que é BDD
+### BDD - Não Testo Código...
 
 ![-](https://miro.medium.com/max/581/1*V3CyC87v-5oj6icmWeu-fg.jpeg)
+
+---
+
+### BDD
+
+![-](https://www.testmanagement.com/wp-content/uploads/2019/05/g-w-t-v2.png){width=70%}
+
+---
+
+### BDD
+
+![-](./Images/BDD.svg)
 
 ---
 
@@ -103,9 +115,3 @@ enableChalkboard: false
 ![-](https://badcryptopodcast.com/wp-content/uploads/2018/08/wallet.png){width=40%}
 
 #### [Diagrama - Virtual Wallet](https://miro.com/app/board/uXjVOJUpVm0=/)
-
----
-
-### BDD
-
-![-](https://www.testmanagement.com/wp-content/uploads/2019/05/g-w-t-v2.png){width=70%}
