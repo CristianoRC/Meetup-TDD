@@ -103,13 +103,6 @@ enableChalkboard: false
 
 ---
 
-### Qual a ideia
-
-- Eu mostrar um exemplo
-- Pair programming
-
----
-
 ### Problemas que vamos resolver
 
 ![-](https://badcryptopodcast.com/wp-content/uploads/2018/08/wallet.png){width=40%}
