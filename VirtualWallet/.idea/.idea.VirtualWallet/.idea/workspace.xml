@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7dde93dd-53f1-4328-9963-08a1b942c6cc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/IEntity.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/Person.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Repository/IPersonRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/IPersonService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/PersonService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Test/PersonServiceTest.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualWallet.Test/PersonTest.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Slides/Slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Slides/Slides.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/Class1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/VirtualWallet.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Domain/VirtualWallet.Domain.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VirtualWallet.Test/UnitTest1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/VirtualWallet.Test/VirtualWallet.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Test/VirtualWallet.Test.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/ETransactionType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/IValidate.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/Transaction.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/Wallet.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Repository/ITransactionRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/Transaction/ITransacitonService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/Transaction/TransactionService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Test/TransactionRepositoryMock.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Test/TransactionServiceTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VirtualWallet.Test/TransactionTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VirtualWallet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VirtualWallet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/IEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/IEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/Person.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Entities/Person.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/Services/IPersonService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/Person/IPersonService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VirtualWallet.Domain/Services/PersonService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VirtualWallet.Domain/Services/Person/PersonService.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +26,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/c0b741a8562c43c9bf3d0f29e318656594ac00/51/0d5f9d07/DateTimeOffset.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25qaTGz24DTpUUayIHUfE7NMWdE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +48,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,7 +62,8 @@
       <updated>1646257079524</updated>
       <workItem from="1646257086744" duration="1213000" />
       <workItem from="1646259659990" duration="1314000" />
-      <workItem from="1646261939412" duration="4371000" />
+      <workItem from="1646261939412" duration="4642000" />
+      <workItem from="1646866353705" duration="8391000" />
     </task>
     <servers />
   </component>

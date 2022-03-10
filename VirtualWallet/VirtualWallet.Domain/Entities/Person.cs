@@ -2,7 +2,7 @@ using Flunt.Notifications;
 
 namespace VirtualWallet.Domain.Entities;
 
-public class Person : Notifiable<Notification>, IEntity
+public class Person : Notifiable<Notification>, IEntity, IValidate
 {
     public Person(Guid id, string name, string email, string phone)
     {
